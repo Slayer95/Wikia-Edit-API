@@ -1,0 +1,28 @@
+{
+  "name": "wikia-edit-api",
+  "version": "1.0.0",
+  "description": "Implements the Edit API for Wikia sites",
+  "main": "wikia-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Slayer95/Wikia-Edit-API.git"
+  },
+  "keywords": [
+    "wiki",
+    "wikia",
+    "mediawiki",
+    "api",
+    "edit",
+    "publish",
+    "article"
+  ],
+  "author": "Leonardo Julca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Slayer95/Wikia-Edit-API/issues"
+  },
+  "homepage": "https://github.com/Slayer95/Wikia-Edit-API#readme"
+}
