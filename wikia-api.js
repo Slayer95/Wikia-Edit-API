@@ -27,7 +27,7 @@
 const https = require('https');
 const url = require('url');
 
-const {buildQS, buildCookieHeader, toPrimitive} = require('./utils');
+const {toPrimitive, buildQS, buildCookieHeader, readCookieHeader} = require('./utils');
 
 const API_ENDPOINT = 'api.php';
 
